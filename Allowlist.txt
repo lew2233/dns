@@ -9,3 +9,7 @@ static.cloudflareinsights.com
 currys.co.uk
 smetrics.currys.co.uk
 app-analytics-v2.snapchat.com
+currys.co.uk.ssl.sc.omtrdc.net
+cdn.cquotient.com
+bam.nr-data.net
+bam.nr-data.net.cdn.cloudflare.net
