@@ -1,0 +1,10 @@
+
+# this is Owned by lewis and is use for lewis DNS. feel free to use
+# This is my custom Block list for AdGuardHome
+
+
+
+imgsct.cookiebot.com
+ads.twitch.tv
+video-ad.twitch.tv
+pubads.g.doubleclick.net
