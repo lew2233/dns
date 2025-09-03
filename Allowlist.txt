@@ -1,0 +1,5 @@
+# Domains added below will be ignored, For example:
+# lego.com
+# cineworld.co.uk
+# nvidia.com
+# static.cloudflareinsights.com
