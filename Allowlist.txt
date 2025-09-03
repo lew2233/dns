@@ -1,5 +1,11 @@
 # Domains added below will be ignored, For example:
+# this is Owned by lewis and is use for lewis DNS. feel free to use
+# This is my Allow list for AdGuardHome
+
 lego.com
 cineworld.co.uk
 nvidia.com
 static.cloudflareinsights.com
+currys.co.uk
+smetrics.currys.co.uk
+app-analytics-v2.snapchat.com
