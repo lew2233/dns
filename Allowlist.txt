@@ -13,3 +13,4 @@ currys.co.uk.ssl.sc.omtrdc.net
 cdn.cquotient.com
 bam.nr-data.net
 bam.nr-data.net.cdn.cloudflare.net
+cs.analytics.lego.com
