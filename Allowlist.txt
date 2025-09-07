@@ -16,3 +16,4 @@ bam.nr-data.net.cdn.cloudflare.net
 cs.analytics.lego.com
 media.flixfacts.com
 r.cquotient.com
+media.flixcar.com
