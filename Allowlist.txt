@@ -21,3 +21,5 @@ d.eu.criteo.com
 r.cquotient.com
 media.flixfacts.com
 cbsd.nl3.vip.prod.criteo.com
+media.flixcar.com
+rt.flix360.com
