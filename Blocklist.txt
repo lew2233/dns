@@ -8,3 +8,4 @@ imgsct.cookiebot.com
 ads.twitch.tv
 video-ad.twitch.tv
 pubads.g.doubleclick.net
+adinfo.amazon.com
