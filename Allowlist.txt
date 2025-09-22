@@ -16,7 +16,6 @@ bam.nr-data.net.cdn.cloudflare.net
 cs.analytics.lego.com
 reporting.jdsports.co.uk
 e.cquotient.com
-js-agent.newrelic.com
 d.eu.criteo.com
 r.cquotient.com
 media.flixfacts.com
